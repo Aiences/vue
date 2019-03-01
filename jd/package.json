@@ -1,0 +1,19 @@
+{
+  "name": "webpacktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wwj",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "html-loader": "^0.5.5",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "vue-loader": "^15.7.0",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
