@@ -1,5 +1,5 @@
 # vue
-webpack+vue组件化项目
+webpack 4.29.6+vue 2.6.8组件化项目
 备注：webpack参考文档：https://www.webpackjs.com
 vue参考文档：https://cn.vuejs.org/
 1.构建环境
